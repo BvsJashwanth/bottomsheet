@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-spring": "^9.7.2",
+    "react-spring-bottom-sheet": "^3.4.1"
+  }
+}
